@@ -4,7 +4,7 @@ passo 1: Criação do projeto java...
   FILE->New Project
   JANELA->
     1 - JAVA with maven -> Java Application <<NEXT>>
-    2 - Procect name <<nome do projeto>>, direcionar o directório do projeto para onde quiser  <<FINISH>>
+    2 - Project name "NOME DO PROJETO", direcionar o directório do projeto para onde quiser  <<FINISH>>
 passo 2 -> criação da interface
   clique direito do mouse no pacote com.mycompany.interfacejava -> new -> JFrame Form
   JANELA new JFrame Form -> Class Name <<botar nome do arquivo>>      <<FINISH>>
